@@ -29,6 +29,10 @@ Follow these steps to set up and run the project:
 5.**Access the application**:
   - Open your browser and visit http://127.0.0.1:5000
 
+After clinking on the link, we get
+![Screenshot 2025-03-15 001956](https://github.com/user-attachments/assets/0b94d5d8-fb2e-4daf-bb38-24f3f23bac7b)
+
+
 ## Usage
 Enter numbers and select the operation to perform.
 
